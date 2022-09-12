@@ -1,0 +1,15 @@
+1.Input
+    1. get_input_data()
+
+2. Reports
+    1. generate_xls_report()
+    2. generate+xls_report()
+
+3. News
+    1. get_news()
+
+4. Subscribers
+    1. get_subscriber_data()
+
+5. Mail
+    1. send_email()
